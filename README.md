@@ -1,4 +1,4 @@
-# SwathiKrish97-NewsNuggets-Advanced-News-Aggregation-and-Summarization-Platform
+NewsNuggets-Advanced-News-Aggregation-and-Summarization-Platform
 
 * Overview:
     * "NewsNuggets" addresses the challenge of information overload by providing quick, comprehensible summaries of news articles, categorized by topics and enhanced with sentiment analysis.
